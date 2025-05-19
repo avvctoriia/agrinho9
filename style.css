@@ -1,5 +1,5 @@
 :root{
-  --cor-de-fundo: #385d27;
+  --cor-de-fundo: #52ec0a;
   --cor-de-texto:#EFE9D5;
   --cor-texto-dois:#71BBB2;
 }
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #333;
+  background-color: #fcfafa;
   color: #fff;
   padding: 10px 20px;
   display: flex;
@@ -24,7 +24,7 @@ header {
 .logo-titulo {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 60px;
 }
 
 .logo-titulo img {
