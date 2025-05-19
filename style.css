@@ -13,7 +13,7 @@ body {
 
 header {
   background-color: #ffffff;
-  color: #1634df;
+  color: #16df6a;
   padding: 10px 20px;
   display: flex;
   justify-content: space-between;
@@ -43,7 +43,7 @@ nav .menu {
 }
 
 .menu li a {
-  color: #a51f1f;
+  color: #1a47c4;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
