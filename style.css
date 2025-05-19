@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #fcfafa;
+  background-color: #1a6ac5;
   color: #d81717;
   padding: 10px 20px;
   display: flex;
@@ -43,7 +43,7 @@ nav .menu {
 }
 
 .menu li a {
-  color: #fff;
+  color: #a51f1f;
   text-decoration: none;
   font-weight: bold;
   transition: color 0.3s ease;
@@ -55,7 +55,7 @@ nav .menu {
 
 
 .titulo {
-  background-color: #b32222;
+  background-color: #f1f1f1;
   padding: 40px;
   text-align: center;
 }
