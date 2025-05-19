@@ -31,9 +31,10 @@ header {
   width: 300%;
   height: 300%;
   border-radius: 50%;
-  margin-left: 90px;
 }
-
+.imglogo{
+  margin-left: 275px;
+}
 nav .menu {
   list-style: none;
   display: flex;
