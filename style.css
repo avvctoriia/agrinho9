@@ -56,9 +56,10 @@ nav .menu {
 
 
 .titulo {
-  background-color: #da1c1c;
+  background-color: #ffffff;
   padding: 70px;
   text-align: center;
+  --cor-de-texto: #1a47c4
 }
 
 .banner-principal img {
